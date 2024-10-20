@@ -4,7 +4,7 @@
 
 **Project Description**: It will output a random word from a list I made and then it will scramble it for the user to solve it and what it was
 
-**Project Goals**: Use more resources to better understand the language. Have a set schedule to work on my homework
+**Project Goals**: Use more resources to better understand the language. Have a set schedule to work on my homework daily
 
 ## Instructions for Build and Use
 
